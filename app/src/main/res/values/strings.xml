@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClearNote</string>
+    <string name="app_tagline">Liquid Glass Offline Notepad</string>
+    <string name="search_hint">Search notes, thoughts &amp; checklists…</string>
+    <string name="create_note">New Note</string>
+    <string name="create_checklist">New Checklist</string>
+    <string name="category_all">All Notes</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_work">Work</string>
+    <string name="category_ideas">Ideas</string>
+    <string name="category_tasks">Tasks</string>
+    <string name="category_archive">Archive</string>
+    <string name="empty_notes_title">Crystal Clear Canvas</string>
+    <string name="empty_notes_desc">No notes yet. Tap + to craft your first thought with liquid clarity.</string>
+    <string name="no_search_results">No notes found matching your search.</string>
+    <string name="note_saved">Saved to local storage</string>
+    <string name="note_deleted">Note moved to trash</string>
+    <string name="note_restored">Note restored</string>
+    <string name="undo">Undo</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="confirm_delete_title">Delete Note?</string>
+    <string name="confirm_delete_desc">This note will be permanently removed from your device.</string>
+    <string name="privacy_guarantee">100% Offline &amp; Private. Zero tracking, zero network requests.</string>
+    <string name="app_version">Version 1.0.0</string>
+</resources>
